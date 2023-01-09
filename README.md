@@ -12,7 +12,5 @@ This repository is collection of some of the interesting videos, podcasts and ot
 # PODCASTS 🎙️
 | [JOE ROGAN WITH NAVAL RAVIKANT](https://open.spotify.com/episode/3ijkVfaht5kcFPvHcCbYYD?si=a14845aaba3b49a0)    |  [ARE WE LIVING IN A SIMULATION?](https://open.spotify.com/episode/1uoQV4UaZyaA4MkCSFnESG?si=fa6d4f1bf7b746e5)   |  [Dr. KYLE GILLETT: TOOLS FOR HORMONE OPTIMIZATION IN MALE (Hubberman Lab)](https://open.spotify.com/episode/5g3XvTU4uLxxCIz7OMhgyl?si=88f5ad061ff64106) 	|
 |---	|---	|---	|
-|   	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
+
 
